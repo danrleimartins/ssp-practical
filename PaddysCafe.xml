@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu>
+    <category name="Drinks">
+        <dish>
+            <item>Water</item>
+            <price>1.50</price>
+        </dish>
+        <dish>
+            <item>Beer</item>
+            <price>3.70</price>
+        </dish>
+        <dish vegetarian="true">
+            <item>Orange Juice</item>
+            <price>2.00</price>
+        </dish>
+    </category>
+    <category name="Side Dishes">
+        <dish>
+            <item>Pesto Pasta Salad</item>
+            <price>6.50</price>
+        </dish>
+        <dish>
+            <item>Polenta</item>
+            <price>3.90</price>
+        </dish>
+        <dish vegetarian="true">
+            <item>Mashed Sweet Potato</item>
+            <price>4.50</price>
+        </dish>
+    </category>
+    <category name="Breakfast">
+        <dish>
+            <item>Omelette</item>
+            <price>4.75</price>
+        </dish>
+        <dish>
+            <item>Strawberry Pancake</item>
+            <price>5.10</price>
+        </dish>
+        <dish vegetarian="true">
+            <item>Tomato Casserole</item>
+            <price>4.20</price>
+        </dish>
+    </category>
+    <category name="Lunch">
+        <dish>
+            <item>Chicken Curry</item>
+            <price>9.50</price>
+        </dish>
+        <dish>
+            <item>Roast Beef</item>
+            <price>8.75</price>
+        </dish>
+        <dish vegetarian="true">
+            <item>Vegetable Stew</item>
+            <price>8.60</price>
+        </dish>
+    </category>
+    <category name="Dinner">
+        <dish>
+            <item>Filet Mignon</item>
+            <price>13.50</price>
+        </dish>
+        <dish>
+            <item>Roasted Salmon</item>
+            <price>11.20</price>
+        </dish>
+        <dish vegetarian="true">
+            <item>Mushroom Risotto</item>
+            <price>9.30</price>
+        </dish>
+    </category>
+</menu>
